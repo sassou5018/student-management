@@ -1,2 +1,3 @@
-# student-management
-Spring Boot CRUD APP
+## Spring Boot CRUD API
+Simple CRUD API using:
+SpringBoot Web and Postgresql.
